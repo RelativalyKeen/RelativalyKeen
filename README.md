@@ -1,3 +1,16 @@
-hey i do things *sometimes*..
+## heyo
+### i do things which are very cool or so im told (by myself).
+#### I code in:
+- Go
+- Python
+- Js/Ts
+  - Svelte
+- whatever else i feel like
 
-i code in python and i am learning cyber security stuff
+#### I have coded:
+- Websites
+- Webservers
+- Bots
+- Desktop Apps
+- ASCII Renderers (more then you would think)
+- and more
