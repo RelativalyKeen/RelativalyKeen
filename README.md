@@ -12,5 +12,5 @@
 - Webservers
 - Bots
 - Desktop Apps
-- ASCII Renderers (more then you would think)
+- ASCII Renderers (more than you would think)
 - and more
